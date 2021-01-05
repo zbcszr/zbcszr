@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hello, I'm Bixin.
+
+Friends pronounce my name as Bixs-in or Bì xīn.
 
 <!--
 **zbcszr/zbcszr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
