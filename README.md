@@ -2,6 +2,7 @@
 
 Friends pronounce my name as Biks-in or Bì xīn. Thanks for visiting!
 
+This is my personal playground, where I display programs I built from ground up! I've worked on a bunch of cool projects for classes and school organizations on my school account, too, but I'm unfortunately not allowed to disclose the source code as per Cornell's academic integrity policy. I am, however, happy to show you some screenshots and possibly demo if you are interested! 
 <!--
 **zbcszr/zbcszr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
