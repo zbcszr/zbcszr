@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Bixin.
 
-Friends pronounce my name as Biks-in or Bì xīn (/bi/ /ɕɪn/). Thanks for visiting!
+Friends pronounce my name as Biks-in or Bì xīn /bi ɕɪn/. Thanks for visiting!
 
 This is my personal playground, where I explore and build things! I've worked on a bunch of cool projects for classes and school organizations on my school account, too, but I'm unfortunately not allowed to disclose the source code as per Cornell's academic integrity policy. I am, however, happy to show you some screenshots and possibly demo if you are interested! 
 <!--
